@@ -27,7 +27,7 @@ const App = () => {
     <>
       <div className={style.wrapper}>
         <Routes>
-          <Route path="/" element={<LoginContext />}>
+          <Route exact path="/" element={<LoginContext />}>
             <Route element={<NavBarLayout />}>
               <Route path="/" element={<Landing />} />
               <Route path="/feedback" element={<Feedback />} />

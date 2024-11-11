@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/water-control/static/css/main.b5fb46c2.css",
-    "main.js": "/water-control/static/js/main.843bd46f.js",
+    "main.js": "/water-control/static/js/main.f9f6fffc.js",
     "static/media/boyAge.png": "/water-control/static/media/boyAge.326020baeca0769875c6.png",
     "static/media/girlWeight.png": "/water-control/static/media/girlWeight.aae0682446f22270828c.png",
     "static/media/boyWeight.png": "/water-control/static/media/boyWeight.55eaddc7d92d0adb5dae.png",
@@ -19,10 +19,10 @@
     "static/media/boySleeping.jpeg": "/water-control/static/media/boySleeping.d00474bc05a750d51c92.jpeg",
     "index.html": "/water-control/index.html",
     "main.b5fb46c2.css.map": "/water-control/static/css/main.b5fb46c2.css.map",
-    "main.843bd46f.js.map": "/water-control/static/js/main.843bd46f.js.map"
+    "main.f9f6fffc.js.map": "/water-control/static/js/main.f9f6fffc.js.map"
   },
   "entrypoints": [
     "static/css/main.b5fb46c2.css",
-    "static/js/main.843bd46f.js"
+    "static/js/main.f9f6fffc.js"
   ]
 }
