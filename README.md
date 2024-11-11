@@ -16,3 +16,7 @@
   - chart.js
   - react-date-range
   - date-fns
+  
+---
+permalink: /index.html
+---
