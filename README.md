@@ -1,8 +1,8 @@
 # Tech stack1
 
-- HTML1
+- HTML2
 - CSS
-  - Bootstrap1
+  - Bootstrap
 - JS (JSX)
 - React
   - react-router-dom
